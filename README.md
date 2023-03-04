@@ -1,4 +1,8 @@
-### Hi there 👋 my name is **Skajp**
+### Hi there 👋 **Skajp** here!
+
+I'm from czech republic and i code in python like alot
+
+[![Skajps's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkajpCZ)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SkajpCZ/SkajpCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
