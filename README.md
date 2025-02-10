@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋 **Skajp** here!
+
+[![Skajps's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SkajpCZ&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/S/github-readme-stats#gh-dark-mode-only)
 
 <!--
 **SkajpCZ/SkajpCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
